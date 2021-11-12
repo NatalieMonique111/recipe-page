@@ -32,4 +32,4 @@ This starter project is well-designed webpage that displays my favorite recipe. 
 7. Add at least one image
 8. Add links to similar recipes you found online
 
-Live site: [Click here to see my preliminary portfolio page]()
+Live site: [Click here to see my preliminary portfolio page](https://nataliemonique111.github.io/recipe-page/)
