@@ -12,7 +12,7 @@ This is my very first project, a single-page recipe site built with HTML and CSS
 
 ### Overview
 
-This starter project is well-designed webpage that displays my favorite recipe. It includes the ingredients, the steps needed to make the dish, links to similar recipes, and one photo.
+This starter project is a well-designed webpage that displays my favorite recipe. It includes the ingredients, the steps needed to make the dish, links to similar recipes, and one photo.
 
 ## Sections included
 
