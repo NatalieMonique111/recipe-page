@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is my very first project, a single-page recipe site built with HTML and CSS.
+This is my very first Techtonic project, a single-page recipe site built with HTML and CSS.
 
 ### Primary Goals
 
